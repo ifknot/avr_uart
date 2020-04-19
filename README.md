@@ -3,7 +3,7 @@ C++ singleton UART comprehensive read and write char decimal hexadecimal binary 
 
 Combines Meyer's canonical singleton with, and expands upon, Mika Tuupola's Sat, Nov 19, 2011 blog post Simple Serial Communications With AVR libc.
 
-## exmaples
+## examples
 
 ```cpp
 
